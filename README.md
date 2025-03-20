@@ -68,12 +68,8 @@ How It Works:
     Messages are displayed on the client side as soon as they are received.
     Users can broadcast messages to everyone or send direct messages if the feature is implemented.
 
-Improvements to Consider:
 
-    Adding user authentication and authorization.
-    Implementing rooms/channels for organized chatting.
-    Persisting message history in a database.
-    Enhancing the UI/UX for better user experience.
+![Image](https://github.com/user-attachments/assets/eb52a313-5415-4229-84e6-a9679a687a45)
 
 
 
